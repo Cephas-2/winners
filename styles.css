@@ -297,3 +297,27 @@ footer p {
         padding: 180px 20px 80px;
     }
 }
+
+.location {
+    padding: 4rem 0;
+    background: #f8f9fa;
+    text-align: center;
+}
+
+.location h2 {
+    margin-bottom: 0.5rem;
+}
+
+.location-address {
+    color: #666;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.map-container {
+    max-width: 900px;
+    margin: 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
